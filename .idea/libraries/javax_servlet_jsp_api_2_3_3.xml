@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="javax.servlet.jsp-api-2.3.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Apache_all/apache-maven-3.6.3-localRepository/javax/servlet/javax.servlet-api/2.3.3/javax.servlet.jsp-api-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Apache_all/apache-maven-3.6.3-localRepository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Apache_all/apache-maven-3.6.3-localRepository/javax/servlet/jsp/jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Apache_all/apache-maven-3.6.3-localRepository/javax/servlet/jstl/1.2/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Apache_all/apache-maven-3.6.3-localRepository/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Apache_all/apache-maven-3.6.3-localRepository/mysql/mysql-connector-java/5.1.29/mysql-connector-java-5.1.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Apache_all/apache-maven-3.6.3-localRepository/taglibs/standard/1.1.2/standard-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Apache_all/apache-maven-3.6.3-localRepository/com/alibaba/fastjson/1.2.61/fastjson-1.2.61.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
